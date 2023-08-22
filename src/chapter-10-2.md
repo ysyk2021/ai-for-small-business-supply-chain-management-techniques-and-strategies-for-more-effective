@@ -1,5 +1,4 @@
-Developing Governance Frameworks to Ensure Responsible AI Use
-=============================================================================================================================================
+
 
 As small businesses increasingly turn to AI technologies for supply chain management, it is critical to establish ethical guidelines and governance frameworks to ensure responsible AI use. In this chapter, we will discuss the importance of AI ethics and governance in small business supply chain management and provide strategies for developing governance frameworks that prioritize fairness, justice, and equity.
 

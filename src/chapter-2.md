@@ -1,5 +1,4 @@
-Chapter 1: Understanding AI in Small Business Supply Chain Management
-=====================================================================
+
 
 AI-powered supply chain management is becoming increasingly important for small businesses to stay competitive in the market. In this chapter, we will discuss the meaning of AI-powered supply chain management, types of AI used for small business supply chain management, and benefits of AI for creating more effective operations.
 

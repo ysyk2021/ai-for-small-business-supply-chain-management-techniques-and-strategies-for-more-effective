@@ -1,5 +1,4 @@
-Assessing Your Supply Chain Management Needs and Goals
-============================================================================================================================================
+
 
 Preparing for successful AI implementation requires assessing your supply chain management needs and goals. In this chapter, we will discuss the importance of assessing your supply chain management needs and goals in small business and provide strategies for defining your objectives.
 

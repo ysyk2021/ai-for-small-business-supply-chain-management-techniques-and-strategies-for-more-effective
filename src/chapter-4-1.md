@@ -1,5 +1,4 @@
-Overview of AI Tools and Technologies for Small Business Supply Chain Management
-====================================================================================================================================================================================
+
 
 Choosing the right AI tools and technologies is critical for small businesses to succeed in supply chain management. In this chapter, we will provide an overview of AI tools and technologies for small business supply chain management.
 

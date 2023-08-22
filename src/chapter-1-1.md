@@ -1,5 +1,4 @@
-Why AI is Important for Small Business Supply Chain Management
-============================================================================
+
 
 Small businesses face numerous challenges when it comes to supply chain management. Limited resources, lack of expertise, and increasing customer demands are just a few of the obstacles that small businesses must overcome to stay competitive in the market.
 

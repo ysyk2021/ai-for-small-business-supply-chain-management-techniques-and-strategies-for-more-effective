@@ -1,5 +1,4 @@
-Chapter 8: Measuring AI Impact on Small Business Supply Chain Management
-========================================================================
+
 
 Measuring the impact of AI implementation in small business supply chain management is critical to understanding its effectiveness and identifying areas for improvement. This chapter discusses how to assess the effectiveness of AI, identify areas for improvement and refinement, and continuously adapt and improve your AI approach for small business supply chain management.
 

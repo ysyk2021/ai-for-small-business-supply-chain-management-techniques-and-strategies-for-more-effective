@@ -1,4 +1,4 @@
-# Introduction
+
 
 The success of a small business is often dependent on its ability to effectively manage its supply chain. From inventory management and logistics optimization to risk assessment and cost optimization, supply chain management is critical for the success of any business.
 

@@ -1,5 +1,4 @@
-Types of AI Used for Small Business Supply Chain Management
-==================================================================================================================================
+
 
 AI-powered supply chain management involves using AI technologies to optimize supply chain processes for small businesses. In this chapter, we will discuss the various types of AI used for small business supply chain management.
 

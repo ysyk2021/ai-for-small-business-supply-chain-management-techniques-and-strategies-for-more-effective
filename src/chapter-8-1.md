@@ -1,5 +1,4 @@
-Overview of AI Applications for Supplier Management in Small Business Supply Chain Management
-===================================================================================================================================================
+
 
 Effective supplier management is critical for small businesses to succeed in a competitive market. AI technologies offer tremendous potential for improving supplier management, reducing costs, and increasing efficiency. In this chapter, we will provide an overview of AI applications for supplier management in small business supply chain management.
 

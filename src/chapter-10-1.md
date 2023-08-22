@@ -1,5 +1,4 @@
-Ethical Considerations for AI Implementation in Small Business Supply Chain Management
-======================================================================================================================================================================
+
 
 As small businesses increasingly adopt AI in their supply chain management operations, it is essential to consider the ethical implications of AI implementation. AI ethics and governance involve ensuring that AI is developed and used in a responsible, transparent, and accountable manner. The following are ethical considerations for AI implementation in small business supply chain management.
 
