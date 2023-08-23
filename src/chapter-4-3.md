@@ -1,5 +1,4 @@
 
-
 Choosing the right AI tools and technologies is critical for small businesses to succeed in supply chain management. In this chapter, we will present case studies of successful AI implementations in small business supply chain management and discuss how these businesses chose the right AI tools and technologies.
 
 Case Study 1: Boxed Wholesale

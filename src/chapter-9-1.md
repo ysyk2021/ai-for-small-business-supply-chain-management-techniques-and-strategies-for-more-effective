@@ -1,5 +1,4 @@
 
-
 Measuring the impact of AI implementation in small business supply chain management is critical to understanding its effectiveness and identifying areas for improvement. This chapter focuses on assessing the effectiveness of AI in small business supply chain management.
 
 Define Success Criteria

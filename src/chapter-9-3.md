@@ -1,5 +1,4 @@
 
-
 Measuring the impact of AI on small business supply chain management is crucial in identifying areas for improvement and refinement. However, it is equally important to continuously adapt and improve your AI approach to achieve better results.
 
 Monitoring Performance Metrics

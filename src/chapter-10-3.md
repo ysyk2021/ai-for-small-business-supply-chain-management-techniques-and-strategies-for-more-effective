@@ -1,5 +1,4 @@
 
-
 As small businesses increasingly turn to AI technologies for supply chain management, it is critical to consider the legal and regulatory implications of AI implementation. In this chapter, we will discuss the importance of legal and regulatory considerations in small business supply chain management and provide strategies for ensuring compliance with relevant laws and regulations.
 
 Importance of Legal and Regulatory Considerations in Small Business Supply Chain Management

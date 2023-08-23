@@ -1,5 +1,4 @@
 
-
 As small businesses continue to adopt AI in their supply chain management operations, it becomes crucial to measure the impact of AI on these operations. Measuring the impact of AI allows businesses to identify areas for improvement and refinement, leading to more effective operations.
 
 Understanding AI Impact Metrics

@@ -1,5 +1,4 @@
 
-
 Choosing the right AI tools and technologies is critical for small businesses to succeed in supply chain management. In this chapter, we will discuss key factors that small businesses should consider when choosing AI tools and technologies.
 
 Data Quality and Availability

@@ -1,5 +1,4 @@
 
-
 Implementing AI in supplier management can have significant benefits for small businesses. By improving supplier selection, reducing costs, and enhancing supply chain transparency, businesses can gain a competitive advantage in the marketplace. The following are case studies of successful AI implementations in improved supplier management.
 
 Case Study 1: IBM
